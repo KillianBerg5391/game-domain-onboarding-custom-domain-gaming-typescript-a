@@ -1,0 +1,1 @@
+{"name":"game-domain-onboarding","private":true,"type":"module","scripts":{"test":"node --experimental-strip-types src/domain_onboarding.test.ts","start":"node --experimental-strip-types src/domain_onboarding.ts"},"dependencies":{"zod":"^3.23.8"}}
